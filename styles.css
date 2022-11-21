@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 20px;
+}
+#mainHeading {
+    color: red;
+    font-size: 30pt;
+    font-weight: 200;
+}
+main {
+    color: green;
+}
+body {
+    background-color: rgb(37, 35, 35);
+}
+article {
+    color: green;
+}
+.funParagraph {
+    color: green;
+}
